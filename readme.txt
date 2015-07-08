@@ -1,7 +1,7 @@
 === WooCommerce Filterable Store ===
 Contributors: Rameez_Iqbal
 Donate link: https://www.2checkout.com/checkout/purchase?sid=202485641&quantity=1&product_id=1
-Tags: woocommerce, wordpress, shortcode, animation, slider, shop, product, cart, store, pages, widget, fullpage
+Tags: woocommerce, wordpress, shortcode, animation, slider, shop, product, cart, store, pages, widget, fullpage, woo commerce, search, carousel
 Requires at least: 3.5
 Tested up to: 4.2.2
 Stable tag: 1.0
